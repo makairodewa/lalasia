@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294897352104",
+    "project_id": "lalasia",
+    "storage_bucket": "lalasia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294897352104:android:3ec43bcaae8045a2c9319d",
+        "android_client_info": {
+          "package_name": "com.example.lalasia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294897352104-d3nmlkl3657s06pu52qh1iottpmrrrds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7dWCNBLeORt8JWMyP-5btrNxHoevU5Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294897352104-d3nmlkl3657s06pu52qh1iottpmrrrds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
